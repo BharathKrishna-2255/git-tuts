@@ -3,6 +3,7 @@
   const hamburger = document.querySelector(".hamburger");
   const sidebarCloseButton = document.querySelector(".close-button");
   const sidebarContainer = document.querySelector(".sidebar-container");
+  
 
   const updateAccessiblityChecks = function (sidebarOpening) {
     const sidebarLinks = [
